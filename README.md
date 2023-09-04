@@ -10,6 +10,8 @@ Crear una cuenta en replit.
 
 Clonar repositirio en sus "Repls" usando lenguaje C.
 
+Opcionalmente puede descargar el repositorio como rar y subirlo manualmente a un Repls.
+
 Ejecutar con el botón run.
 
 # Funcionalidades
